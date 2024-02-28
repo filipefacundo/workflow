@@ -1,0 +1,22 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 16,
+    "editor.wordWrap": "on",
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "jetbrainsKeymap.promptV3Features": true,
+    "workbench.startupEditor": "none"
+}
